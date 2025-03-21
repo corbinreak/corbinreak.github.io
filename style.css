@@ -1,6 +1,12 @@
-.Title .Mountain {
-     align-items: center;
+.Mountain {
+       position: absolute;
+       top: 0;
+       bottom: 0;
+       
 }
 
+.Title {
+       text-align: center;
+       
 
-  
+}
