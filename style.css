@@ -1,3 +1,7 @@
+body {
+  
+}       
+
 .Mountain {
        position: absolute;
        top: 0;
@@ -7,6 +11,10 @@
 
 .Title {
        text-align: center;
+       fontsize: 150px
+       
        
 
 }
+
+
